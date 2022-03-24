@@ -1,25 +1,29 @@
 ---
 title: On the Genealogy of Morals
-date: 2019-08-16T19:15:34+00:00
+date: 2019-08-16T19:15:34.000+00:00
 type: blog
-author: Friedrich Nietzsche
-hero: "/images/jj-ying-7JX0-bfiuxQ-unsplash.jpg"
+author: ''
+hero: "/images/healthcare-marketing-1.webp"
 
 ---
-So all respect to the good spirits that may govern in these historians of morality! But it's certainly a pity that they lack the historical spirit itself, that they've been left in the lurch by all the good spirits of history! Collectively they all think essentially unhistorically, in the traditional manner of philosophers. Of that there is no doubt. The incompetence of their genealogies of morals reveals itself at the very beginning, where the issue is to determine the origin of the idea and of the judgment "good."
+# The digital presence in the health sector sets trends and those who are not on the Internet simply do not exist and limit their market.
 
-"People," so they proclaim, "originally praised unegoistic actions and called them good from the perspective of those for whom they were done, that is, those for whom such actions were useful. Later people forgot how this praise began, and because unegoistic actions had, according to custom, always been praised as good, people then simply felt them as good, as if they were something inherently good."
+Medical Digital Marketing grew exponentially during the global coronavirus pandemic and the healthcare area did not escape this phenomenon. If you are not on the internet yet, you simply don't exist!
 
-# "What, from an etymological perspective, do the meanings of "Good" as manifested in different languages really mean?"
+Nowadays, people surfing the Internet are more diligent when it comes to researching health-related topics. They are interested in comments, recommendations about doctors, the geographic location of clinics and hospitals, and they enter blogs and forums before deciding where to go.
 
-We see right away that this initial derivation already contains all the typical characteristics of the idiosyncrasies of English psychologists—we have "usefulness," "forgetting," "habit," and finally "error," all as the foundation for an evaluation in which the higher man up to this time has taken pride, as if it were a sort of privilege of men generally. This pride should be humbled, this evaluation of worth emptied of value. Has that been achieved?
+However, technology has come to simplify life and make it easier when it comes to health. Therefore, those who are in this trend know that it is essential to have great Healthcare content marketing.
 
-![](/images/ruslan-bardash-g83y6do219w-unsplash.jpg)
+That´s why professionals and institutes should think in a Social Media Marketing for Healthcare, not just for being more competitive but to reach the new and demanding consumer. So, what you need to have presence in the digital market?
 
-Now, first of all, it's obvious to me that from this theory the origin of the idea "good" has been sought for and established in the wrong place: the judgment "good" did not move here from those to whom "goodness" was shown! It is much more that case that the "good people" themselves, that is, the noble, powerful, higher-ranking and higher-thinking people felt and set themselves and their actions up as good, that is to say, of the first rank, in contrast to everything low, low-minded, common, and vulgar. From this pathos of distance they first arrogated to themselves the right to create values, to stamp out the names for values. What did they care about usefulness!
+Here are some suggestions that will make you visible in the internet:
 
-# "Although the two words "bad" and "evil" both seem opposite to the same idea of "good," how different they are."
+1\. Web desing for growth: users inform theirself to solve their needs and questions from any source. Some od them do it through their phones and for that reason it’s essential have a responisve website and with optimized conditions for this format.
 
-In relation to such a hot pouring out of the highest rank-ordering, rank-setting judgments of value, the point of view which considers utility is as foreign and inappropriate as possible. Here the feeling has reached the opposite of that low level of warmth which is a condition for that calculating shrewdness, that calculation by utility—and not just for a moment, not for an exceptional hour, but permanently. The pathos of nobility and distance, as mentioned, the lasting and domineering feeling, something total and complete, of a higher ruling nature in relation to a lower nature, to an "beneath"—that is the origin of the opposition between "god" and "bad." (The right of the master to give names extends so far that we could permit ourselves to grasp the origin of language itself as an expression of the power of the rulers: they say "that is such and such," seal every object and event with a sound and, in so doing, take possession of it.)
+A key point of your site is that it must be easy to navigate and offer relevant and fast information, because time is your worst enemy. In addition, the user's experience with your site is the first step in a long-term relationship that you want to build loyalty.
 
-Given this origin, the word "good" was not in any way necessarily tied up with "unegoistic" actions, as the superstitions of those genealogists of morality tell us. Rather, that occurs for the first time with the collapse of aristocratic value judgments, when this entire contrast between "egoistic" and "unegoistic" pressed itself ever more strongly into human awareness—it is, to use my own words, the instinct of the herd which, through this contrast, finally gets its word (and its words). And even so, it took a long time until this instinct in the masses became ruler, with the result that moral evaluation got downright hung up and bogged down on this opposition (as is the case, for example, in modern Europe: today the prejudice that takes "moralistic," "unegoistic," "_désintéressé_" _\[disinterested\]_ as equally valuable ideas already governs, with the force of a "fixed idea" and a disease of the brain).
+2\. SEO possitioning strategy: A good SEO strategy is to place your website at the top of the search results related to your services or products you offer.
+
+3\. Content marketing. Keep in mind that quality information puts you at an advantage. Health topics are highly relevant and essential to achieve your business objectives.
+
+From step one to digital, Marketing for doctors and healthcare professional in general, means increased patient recruitment and loyalty, better attention, increase services online, develop new business models, better communication and more importantly, highlight from others. It´s time to grow and get the Digital Marketing Era into your business DNA with the right strategy. You can contact our experts by clicking HERE.
