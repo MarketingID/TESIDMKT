@@ -1,5 +1,5 @@
 ---
-title: On the Genealogy of Morals
+title: Medical Digital Marketing, why not?
 date: 2019-08-16T19:15:34.000+00:00
 type: blog
 author: ''
