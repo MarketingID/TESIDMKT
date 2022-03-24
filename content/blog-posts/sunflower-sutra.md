@@ -6,7 +6,7 @@ hero: "/images/previewimage.jpg"
 author: ''
 
 ---
-Business has changed at an accelerated pace in recent years and the digital era is already with us. The advantages of adapting and including digital strategies to your business are huge.
+# Business has changed at an accelerated pace in recent years and the digital era is already with us. The advantages of adapting and including digital strategies to your business are huge.
 
 The digital era has arrived and businesses must take into account that implementing a digital marketing strategy is essential for their growth in this era, but how to start? Any change at the beginning can be complicated, but here are some of the factors that you can define and make this process a path full of learning.
 
